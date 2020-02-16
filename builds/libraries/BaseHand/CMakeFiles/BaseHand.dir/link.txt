@@ -1,0 +1,2 @@
+/usr/bin/ar qc libBaseHand.a  CMakeFiles/BaseHand.dir/src/BaseHand.cpp.o
+/usr/bin/ranlib libBaseHand.a

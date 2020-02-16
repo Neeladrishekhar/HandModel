@@ -1,0 +1,12 @@
+/home/kanjilal/Documents/Kash's file/HandModel/builds/CMakeFiles/rebuild_cache.dir
+/home/kanjilal/Documents/Kash's file/HandModel/builds/CMakeFiles/Project.dir
+/home/kanjilal/Documents/Kash's file/HandModel/builds/CMakeFiles/edit_cache.dir
+/home/kanjilal/Documents/Kash's file/HandModel/builds/libraries/BaseHand/CMakeFiles/rebuild_cache.dir
+/home/kanjilal/Documents/Kash's file/HandModel/builds/libraries/BaseHand/CMakeFiles/BaseHand.dir
+/home/kanjilal/Documents/Kash's file/HandModel/builds/libraries/BaseHand/CMakeFiles/edit_cache.dir
+/home/kanjilal/Documents/Kash's file/HandModel/builds/libraries/Model/CMakeFiles/rebuild_cache.dir
+/home/kanjilal/Documents/Kash's file/HandModel/builds/libraries/Model/CMakeFiles/Model.dir
+/home/kanjilal/Documents/Kash's file/HandModel/builds/libraries/Model/CMakeFiles/edit_cache.dir
+/home/kanjilal/Documents/Kash's file/HandModel/builds/libraries/Graphics/CMakeFiles/rebuild_cache.dir
+/home/kanjilal/Documents/Kash's file/HandModel/builds/libraries/Graphics/CMakeFiles/Graphics.dir
+/home/kanjilal/Documents/Kash's file/HandModel/builds/libraries/Graphics/CMakeFiles/edit_cache.dir

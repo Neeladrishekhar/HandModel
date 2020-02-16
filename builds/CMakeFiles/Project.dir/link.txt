@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Project.dir/src/main.cpp.o  -o Project libraries/Model/libModel.a libraries/Graphics/libGraphics.a -lGL -lGLU -lGLEW -lglut libraries/BaseHand/libBaseHand.a 
